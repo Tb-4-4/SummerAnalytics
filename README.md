@@ -1,4 +1,4 @@
-# Dynamic Parking Lot Price Prediction - Final Capstone Project - Summer Analytics
+# Dynamic Pricing for Urban Parking Lots - Final Capstone Project - Summer Analytics
 
 This project on Dynamic Pricing for Urban Parking Lots was completed as part of the Summer Analytics course conducted by [CAIITG](https://www.caciitg.com/). The goal was to model dynamic price adjustments for urban parking spots based on features like occupancy, capacity, queue length, traffic conditions, and special days. Along with basic data exploration and visualization, two pricing models were developed:
 
