@@ -1,5 +1,9 @@
 # Dynamic Parking Lot Price Prediction - Final Capstone Project - Summer Analytics
 
+<p align="center">
+  <img src="realtime_price_prediction.gif" width="400">
+</p>
+
 **Data Source:** 
 1. Time-series data of 14 different parking lot conditions recorded at several times a day over 73 days - [Dataset Source](https://drive.google.com/file/d/1RqHF3zphAFOtYZgReDJUxEFweOiVAxqP/view?usp=drive_link)
 
